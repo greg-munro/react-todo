@@ -9,7 +9,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  
+  background-color: #292C34
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
   border: 1px solid steelblue;
   padding: 30px;
   border-radius: 5px;
-  background-color: grey;
+  background-color: lightgray;
 }
 
 .header {
